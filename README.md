@@ -1,8 +1,8 @@
 # PS-Einstein
 
-This is a small test to check the basic understand of machine learning developed by HIAE.
+This project aims to classify a numeric dataset using different methods for evaluating its performances. 
 
-I recommend the local compilation of the jupyter files since some graphs were plotted using the *Plotly* module which is not rendered in gitlab preview.
+I recommend the local compilation of the jupyter files since some graphs were plotted using the *Plotly* module which is not rendered in github preview.
 
 ## Installation
 
