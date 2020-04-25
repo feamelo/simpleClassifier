@@ -1,4 +1,4 @@
-# PS-Einstein
+# Simple Classifier
 
 This project aims to classify a numeric dataset using different methods for evaluating its performances. 
 
